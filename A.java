@@ -10,4 +10,9 @@ public void m2()
 System.out.println("m2()method");
 
 }
+  public void m3()
+  {
+System.out.printl("m3()method");
+    
+  }
 }
