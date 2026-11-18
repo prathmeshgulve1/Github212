@@ -12,5 +12,8 @@ public void mul()
 {
 Sytem.out.println(20*6);
 }
-
+public void div()
+  {
+    System.out.println(100/20);
+  }
 }
